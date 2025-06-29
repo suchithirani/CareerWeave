@@ -1,0 +1,10 @@
+@import "tailwindcss";
+.loader {
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-radius: 9999px;
+}
+
+html {
+  transition: background-color 0.3s, color 0.3s;
+}
